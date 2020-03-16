@@ -33,4 +33,4 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	3-6：【閲覧機能を作ろう】[Start]→[Finish]  
 	3-7：【編集機能を作ろう】[Start]→[Finish]  
 	3-8：【画像投稿機能を作ろう】[Start]→[Finish]  
-	3-9：【削除機能を作ろう】[Start]  
+	3-9：【削除機能を作ろう】[Start]→[Finish]  
