@@ -29,3 +29,4 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	3-2：【開発環境を覚えよう】[Start]→[Finish]  
 	3-3：【Railsでアプリケーションを開発しよう】[Start]→[Finish]  
 	3-4：【モデルとデータベースを用意しよう】[Start]→[Finish]  
+	3-5：【投稿機能を作ろう】[Start]  
