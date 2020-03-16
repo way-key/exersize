@@ -14,4 +14,4 @@ DMM WEBCAMPの課題提出
 
 - Rubyを学ぼう  
 	2-2：【Rubyの基本文法を理解しよう(1)】[Start]→[Finish]  
-	2-3：【Rubyの基本文法を理解しよう(2)】[Start]  
+	2-3：【Rubyの基本文法を理解しよう(2)】[Start]→[Finish]  
