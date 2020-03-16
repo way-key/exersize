@@ -11,7 +11,7 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	1-7：【メイン部分を作ろう】[Start]→[Finish]  
 	1-8：【サイドバーを作ろう】[Start]→[Finish]  
 	1-9：【サイトを仕上げよう】[Start]→[Finish]  
-	1-10：【課題：レスポンシブ対応させよう】[Start]  
+	1-10：【課題：レスポンシブ対応させよう】[Start]→[Finish]  
 
 - Rubyを学ぼう  
 	2-1：【Rubyの概要を学ぼう】[Start]→[Finish]  
