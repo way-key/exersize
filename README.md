@@ -38,4 +38,4 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 
 - アプリケーションを完成させよう  
 	4-1：【CARAVANに機能を追加しよう】 [Start]→[Finish]  
-	4-2：【TOPページを作ろう】[Start]  
+	4-2：【TOPページを作ろう】[Start]→[Finish]  
