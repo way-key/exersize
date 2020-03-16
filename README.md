@@ -20,4 +20,4 @@ DMM WEBCAMPの課題提出
 	2-6：【データ型を学ぼう】[Start]→[Finish]  
 	2-7：【条件分岐を学ぼう】[Start]→[Finish]  
 	2-8：【繰り返し処理を学ぼう】[Start]→[Finish]  
-	2-9：【FizzBuzzプログラムを作ってみよう】[Start]  
+	2-9：【FizzBuzzプログラムを作ってみよう】[Start]→[Finish]  
