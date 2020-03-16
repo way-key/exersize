@@ -64,7 +64,7 @@ main{
 		float: none;
 	}
 	.step1-img, .step2-img, .step3-img{
-		height:270px;
+		width:100%;
 	}
 	.step-box:first-child{
 		margin-top:50px;
