@@ -24,6 +24,6 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	2-8：【繰り返し処理を学ぼう】[Start]→[Finish]  
 	2-9：【FizzBuzzプログラムを作ってみよう】[Start]→[Finish]  
 
--Railsを学ぼう
+-Railsを学ぼう  
 	3-1：【Railsの概要を学ぼう】[Start]→[Finish]  
-	3-2：【開発環境を覚えよう】[Start]  
+	3-2：【開発環境を覚えよう】[Start]→[Finish]  
