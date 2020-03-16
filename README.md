@@ -17,4 +17,4 @@ DMM WEBCAMPの課題提出
 	2-3：【Rubyの基本文法を理解しよう(2)】[Start]→[Finish]  
 	2-4：【オブジェクトとメソッドを学ぼう】[Start]→[Finish]  
 	2-5：【変数と定数を学ぼう】[Start]→[Finish]  
-	2-6：【データ型を学ぼう】[Start]  
+	2-6：【データ型を学ぼう】[Start]→[Finish]  
