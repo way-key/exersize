@@ -41,3 +41,4 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	4-2：【TOPページを作ろう】[Start]→[Finish]  
 	4-3：【投稿機能を作ろう】[Start]→[Finish]  
 	4-4：【Blog部分を書き換えよう】[Start]→[Finish]  
+	4-5：【詳細ページを作ろう】[Start]  
