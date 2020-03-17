@@ -40,4 +40,4 @@ DMM WEBCAMPの進捗状況(課題提出状況)
 	4-1：【CARAVANに機能を追加しよう】 [Start]→[Finish]  
 	4-2：【TOPページを作ろう】[Start]→[Finish]  
 	4-3：【投稿機能を作ろう】[Start]→[Finish]  
-	4-4：【Blog部分を書き換えよう】[Start]  
+	4-4：【Blog部分を書き換えよう】[Start]→[Finish]  
