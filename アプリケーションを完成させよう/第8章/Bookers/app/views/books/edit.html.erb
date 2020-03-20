@@ -1,5 +1,10 @@
 <!-- 動作確認アドレスhttp://localhost:3000/books/1/edit -->
 
+<% if flash[:notice] %>
+　<div>
+	<%= flash[:notice] %>
+　</div>
+<% end %>
 <h1>Editing Book</h1>
 <%= form_for(@book) do |f| %>
 	<h4>Title</h4>

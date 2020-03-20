@@ -1,6 +1,5 @@
-<!-- 動作確認アドレスhttp://localhost:3000/books -->
+<!-- 動作確認アドレスhttp://localhost:3000/ -->
 
-<p id="notice"></p>
 <h1>Books</h1>
 <table>
 	<thead>
@@ -18,21 +17,32 @@
 			<td><%= link_to "show", book %></td>
 			<td><%= link_to "edit", edit_book_path(book) %></td>
 			<td><%= link_to "Destroy", book_path(book), method: :delete, data: {confirm: "Are you sure?"} %>
-				<!-- ※※※クラス名が未設定※※※ -->
 			</td>
 		</tr>
 	　<% end %>
 	</tbody>
 </table>
 <h2>New book</h2>
-<%= form_for(@book) do |f| %>
+　<%= form_for(@book) do |f| %>
+　　<% if @book.errors.any? %>
+   	　<div class="alert alert-warning">
+   		<ul>
+   		　<%= @book.errors.full_messages.each do |message| %>
+   		　　<li><%= message %></li>
+   		　<% end %>
+		</ul>
+	　</div>
+　　<% end %>
+		<div class="form-group">
+			<%= f.label :title %><br>
+			<%= f.text_field :title %>
+		</div>
 
-	<h4>Title</h4>
-	<%= f.text_field :title %>
+		<div class="form-group">
+			<%= f.label :body %><br>
+			<%= f.text_area :body %>
+		</div>
 
-	<h4>Body</h4>
-	<%= f.text_field :body %>
+	<%= f.submit 'Create Book' %>
 
-	<%= f.submit '投稿' %>
-
-<% end %>
+　<% end %>

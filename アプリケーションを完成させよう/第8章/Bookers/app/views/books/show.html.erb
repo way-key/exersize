@@ -1,5 +1,10 @@
 <!-- 動作確認アドレスhttp://localhost:3000/books/1 -->
 
+<% if flash[:notice] %>
+　<div>
+	<%= flash[:notice] %>
+　</div>
+<% end %>
 <p id="notice"></p>
 <p>
 	<strong>Title:</strong>
