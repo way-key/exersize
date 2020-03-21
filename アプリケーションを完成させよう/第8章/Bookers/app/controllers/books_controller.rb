@@ -13,7 +13,9 @@ class BooksController < ApplicationController
       flash[:notice] = "successfully"
       redirect_to book_path(book.id)
     else
-      redirect_to books_path
+      @book = book
+      @books = Book.all
+      render :index
     end
   end
 
@@ -31,7 +33,8 @@ class BooksController < ApplicationController
       flash[:notice] = "successfully"
       redirect_to book_path(book.id)
     else
-      redirect_to books_path
+      @book = book
+      render :edit
     end
   end
 
